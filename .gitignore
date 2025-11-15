@@ -1,0 +1,6 @@
+cache/
+__pycache__/
+*.jsonl
+users.json
+udp_keys.json
+downloads/
