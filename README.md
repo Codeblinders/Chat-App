@@ -162,13 +162,7 @@ PRs and issues welcome. Things you might work on next:
 * Add TLS to TCP control channel in addition to AES payloads (currently AES-GCM is used at the application level).
 * Improve UDP NAT traversal (STUN) for cross-network usage.
 
----
 
-## License
-
-Add your preferred license file (e.g., `LICENSE`) to the repo. This README does not include a license by default.
-
----
 
 ## References (source files used to create this README)
 
